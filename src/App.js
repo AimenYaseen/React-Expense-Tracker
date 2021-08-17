@@ -4,7 +4,7 @@ function App() {
   const expenses = [
     {
       id: "e1",
-      title: "Toilet Papers",
+      title: "Toilet Paper",
       amount: 94.12,
       date: new Date(2020, 7, 14), // starts from 0; 7 prints august
     },
